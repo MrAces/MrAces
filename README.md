@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/drecezars_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-cezar-da-silva-350138205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-    ![Snake animation](https://github.com/mraces/mraces/blob/output/github-contribution-grid-snake.svg)
-  
+  <hr>
+    ![Snake animation](https://github.com/montoyaaa/montoyaaa/blob/output/github-contribution-grid-snake.svg)
 </div>
  
